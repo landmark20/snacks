@@ -1,0 +1,4 @@
+This is the chips file
+Chips are a snack
+Chips are good.
+Eat Chips!
